@@ -7,7 +7,7 @@
 Run the Vite dev server:
 
 ```shellscript
-npm run dev
+npm run mtp
 ```
 
 ## Deployment
@@ -21,7 +21,7 @@ npm run build
 Then run the app in production mode:
 
 ```sh
-npm start
+npm mtp
 ```
 
 Now you'll need to pick a host to deploy it to.
